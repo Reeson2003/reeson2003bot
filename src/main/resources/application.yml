@@ -1,0 +1,7 @@
+telegram:
+  bot:
+    name: Reeson2003_bot
+    token: ${TELEGRAM_TOKEN}
+logging:
+  level:
+    ru.reeson2003: DEBUG
